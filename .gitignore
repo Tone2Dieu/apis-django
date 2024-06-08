@@ -1,2 +1,4 @@
 .env_red
 .idea
+.env
+db.sqlite3
